@@ -1,0 +1,17 @@
+{
+  "name": "create-graphicsjs-game",
+  "version": "0.0.0",
+  "bin": {
+    "create-graphicsjs-game": "init.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soft-boy/create-graphicsjs-game.git"
+  },
+  "author": "Eric Wang",
+  "license": "CC-BY-NC-SA-3.0",
+  "bugs": {
+    "url": "https://github.com/soft-boy/create-graphicsjs-game/issues"
+  },
+  "homepage": "https://github.com/soft-boy/create-graphicsjs-game#readme"
+}
