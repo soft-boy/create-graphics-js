@@ -1,21 +1,21 @@
 {
-  "name": "create-graphicsjs-game",
+  "name": "create-graphics-js",
   "version": "0.0.1",
   "type": "module",
   "bin": {
-    "@soft-boy/create-graphicsjs-game": "create-graphicsjs-game.js",
-    "create-graphicsjs-game": "create-graphicsjs-game.js"
+    "@soft-boy/create-graphics-js": "create-graphics-js.js",
+    "create-graphics-js": "create-graphics-js.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/soft-boy/create-graphicsjs-game.git"
+    "url": "git+https://github.com/soft-boy/create-graphics-js.git"
   },
   "author": "Eric Wang",
   "license": "CC-BY-NC-SA-3.0",
   "bugs": {
-    "url": "https://github.com/soft-boy/create-graphicsjs-game/issues"
+    "url": "https://github.com/soft-boy/create-graphics-js/issues"
   },
-  "homepage": "https://github.com/soft-boy/create-graphicsjs-game#readme",
+  "homepage": "https://github.com/soft-boy/create-graphics-js#readme",
   "dependencies": {
     "chalk": "^5.0.1",
     "execa": "^6.1.0",
