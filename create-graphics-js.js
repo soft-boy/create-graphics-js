@@ -75,7 +75,7 @@ const tasks = new Listr([
   {
     title: 'installing parcel',
     task: async () => {
-			const result = await execa('npm', ['i', '-s', 'parcel'], {
+			const result = await execa('npm', ['i', '-s', 'parcel-bundler'], {
 				cwd: `${process.cwd()}/${targetDir}`
 			})
 			if (result.failed) {
