@@ -13,7 +13,7 @@ const [,, ...args] = process.argv
 
 if (!args.length) {
 	console.log('Please specify the project directory:')
-	console.log('  '+chalk.blue('create-graphicsjs-game ')+chalk.green('<project-directory>\n'))
+	console.log('  '+chalk.blue('create-graphics-js ')+chalk.green('<project-directory>\n'))
   process.exit()
 }
 

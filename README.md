@@ -1,1 +1,1 @@
-# create-graphicsjs-game
+# create-graphics-js
